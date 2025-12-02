@@ -1,3 +1,7 @@
+// Modulorithmic Dial Simulation
+// 0-100 Circular Dial with Left and Right Turns
+
+
 #include <iostream>
 #include <string>
 #include <vector>
