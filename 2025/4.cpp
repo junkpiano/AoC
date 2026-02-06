@@ -1,3 +1,5 @@
+// ./a.out < input.txt  0.04s user 0.00s system 85% cpu 0.046 total
+
 #include <iostream>
 #include <string>
 #include <vector>
